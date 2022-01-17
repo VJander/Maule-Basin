@@ -14,7 +14,7 @@ from matplotlib import pyplot as plt
 
 # Load the Model
 def get_model_data():
-    with open('PruebaMaule7.json') as fh:
+    with open('Model.json') as fh:
         data = json.load(fh)
     return data
 
@@ -53,4 +53,4 @@ if __name__ == '__main__':
     platypus_main()
 
 # Print to verify it runs
-print("¡¡Corrio todo carajo!!")
+print("Success!")
