@@ -1,0 +1,6 @@
+Date, Time, Scenario, Year, TimeStep, Allocation Order, Allocation Order Iteration, Type, Reduction Fraction, MinCoverage, ObjID, ObjName, Amount Reduced[CFS], Amount Reduced[m^3], Amount Reduced[AF]
+11-18-2019, 15:22:11, Reference, 1980, April, 4, 1, MinCov, 0.01, 0.99, 242, "Reservoir: Rio Maule Alto, Embalse Colbun", 152.242688211428, 11174197.3000028, 9059.08267665695
+11-29-2019, 11:18:47, EscenariosFuturos, 2034, September, 1, 6, CovCon, 0.02, 0, 2020, "Flow Requirement: Canal La Isla, FR La Isla", 0, 0, 0
+11-29-2019, 11:18:47, EscenariosFuturos, 2034, September, 1, 6, CovCon, 0.04, 0, 2062, "Flow Requirement: Canal Santa Rosa, FR Santa Rosa", 0, 0, 0
+11-29-2019, 11:18:50, EscenariosFuturos, 2036, October, 1, 6, MinCov, 0.01, 0.000792, 2246, "Demand Site: Particulares Ribera Norte", 0.172176138268383, 13058.5, 10.5867140123877
+11-29-2019, 11:18:58, EscenariosFuturos, 2041, November, 1, 5, CovCon, 0.01, 0, 2062, "Flow Requirement: Canal Santa Rosa, FR Santa Rosa", 0, 0, 0

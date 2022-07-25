@@ -1,0 +1,1356 @@
+9/16/2013 4:21:14 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): You may not refer to future values of result variables--you must look at least one time step in the past.Branch: Supply and Resources\River\Economías\Reservoirs\EconomíasScenario: ReferenceYear: 2050Month: MayVariable: Top of Conservation
+9/16/2013 4:21:15 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: Failed to calculate
+9/16/2013 4:25:12 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 4:25:13 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 4:25:13 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 4:25:14 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 4:25:15 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:45:15 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:45:16 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:45:16 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:45:17 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:45:17 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:46:55 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:46:56 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:46:56 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:46:57 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 5:46:58 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:04:45 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:21:06 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:31:22 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:31:23 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:31:24 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:31:24 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:31:25 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:50:08 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:50:08 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:50:09 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:50:10 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:50:11 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:55:22 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:55:23 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:55:23 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:55:24 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 6:55:25 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 7:08:38 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 7:11:38 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 7:14:35 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 7:17:30 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/16/2013 7:20:26 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 4:39:56 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 4:42:45 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 4:45:34 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 4:48:20 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 4:51:05 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 4:57:59 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 5:00:51 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 5:03:40 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 5:06:26 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/17/2013 5:09:11 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:04:52 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:07:42 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:10:30 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:13:17 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:16:02 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:46:02 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:48:52 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:51:41 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:54:27 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+9/23/2013 3:57:10 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:34:20 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:34:43 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:41:48 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:42:12 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:44:07 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:44:31 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:49:10 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:49:34 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:52:52 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 3:53:16 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 4:13:28 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 4:31:38 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 4:44:12 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 4:59:54 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 5:23:47 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: favorite "HydroPower Generation" not found
+11/4/2013 5:24:42 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): You may not refer to future values of result variables--you must look at least one time step in the past.Branch: Supply and Resources\River\Economías\Reservoirs\EconomíasScenario: ReferenceYear: 1980Month: DecemberVariable: Top of Conservation
+11/4/2013 5:24:42 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: Failed to calculate
+11/4/2013 5:24:58 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): You may not refer to future values of result variables--you must look at least one time step in the past.Branch: Supply and Resources\River\Economías\Reservoirs\EconomíasScenario: ReferenceYear: 1980Month: JuneVariable: Top of Conservation
+11/4/2013 5:29:32 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): You may not refer to future values of result variables--you must look at least one time step in the past.Branch: Supply and Resources\River\Economías\Reservoirs\EconomíasScenario: ReferenceYear: 2000Month: JuneVariable: Top of Conservation
+11/4/2013 5:29:33 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): WEAPApplication.LoadFavorite: Failed to calculate
+11/4/2013 5:30:00 PM (WEAP Version: 3.43, User: Proyecto CORFO, Chile, Area: WEAP_Chile_Transiente): You may not refer to future values of result variables--you must look at least one time step in the past.Branch: Supply and Resources\River\Economías\Reservoirs\EconomíasScenario: ReferenceYear: 2001Month: JulyVariable: Top of Conservation
+29-11-2019 11:47:18 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:47:21 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:22 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:47:25 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:31 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:33 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:47:35 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:37 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:47:40 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:47 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:47:50 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:47:51 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:47:54 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:48:00 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:48:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:48:07 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:48:09 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:48:12 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:53:59 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:54:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:03 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:54:06 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:12 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:13 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:54:16 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:18 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:54:20 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:26 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:28 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:54:30 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:31 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:54:34 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:39 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:41 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:54:44 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:54:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:54:49 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:57:32 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:57:35 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:57:36 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:57:39 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:57:45 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:57:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:57:49 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:57:50 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:57:53 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:57:59 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:58:01 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:58:04 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:58:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:58:08 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:58:13 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:58:15 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 11:58:17 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 11:58:19 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 11:58:21 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:00:32 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:00:35 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:00:35 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:00:39 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:00:48 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:00:50 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:00:50 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:00:54 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:01:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:01:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:01:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:01:08 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:01:15 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:01:17 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:01:17 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:01:20 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:02:50 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:02:50 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:02:54 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:03:00 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:03:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:03:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:03:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:03:12 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:03:13 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:03:13 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:03:16 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:03:25 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:03:27 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:03:27 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:03:30 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:35:55 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPBranch.Variable: Invalid variable name: "cambio"
+29-11-2019 12:39:24 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPVariables: Invalid variable name: "cambio"
+29-11-2019 12:47:30 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPBranch.Variable: Invalid variable name: "cambio"
+29-11-2019 12:51:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:51:49 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:51:49 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:51:52 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:52:00 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:52:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:52:02 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:52:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:52:12 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:52:15 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:52:15 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:52:18 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:52:27 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:52:29 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:52:29 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:52:32 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:53:33 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:53:35 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:53:35 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:53:38 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:53:44 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:53:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:53:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:53:48 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:53:55 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:53:56 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:53:56 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:53:59 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:54:06 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:54:07 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:54:07 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: overview "['Resultados Atlas']" not found
+29-11-2019 12:54:10 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:58:49 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:58:51 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:58:54 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:58:56 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 12:58:58 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:07 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:59:10 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:11 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 12:59:14 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:21 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:23 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:59:26 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:28 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 12:59:31 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:38 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:40 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 12:59:42 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:43 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 12:59:46 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 12:59:54 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:00:07 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:01:14 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:01:16 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 13:01:19 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:01:20 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 13:01:23 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:01:30 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:01:32 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 13:01:37 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:01:43 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:01:51 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:02:00 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:06:53 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:07:57 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:08:49 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:08:51 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 13:08:54 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:08:56 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 13:08:59 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:05 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:07 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 13:09:10 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:11 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 13:09:14 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:21 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:23 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 13:09:25 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:26 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 13:09:29 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:36 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:38 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.Calculate: Failed to calculate
+29-11-2019 13:09:41 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:42 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): WEAPApplication.LoadOverview: Failed to calculate
+29-11-2019 13:09:45 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1980
+Month: April
+
+29-11-2019 13:09:56 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:10:21 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:10:33 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:10:43 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 13:13:14 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): File C:\Users\CJANDER\Desktop\Ingeniería UC\2019-02\PostGrado\WEAP\WEAP_Chile_Historico\Data\Pp.txt contains daily data, but Annual Activity Level needs monthly data.To specify the method of aggregation, give one of the following as the optional 4th parameter to ReadFromFile: Sum, Average, Minimum, Maximum, or Median.  For example, ReadFromFile(filename.txt, , , Sum).  Click Help for more information.
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+
+29-11-2019 22:55:01 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): Cannot open file E:\AtlasHacienda\PythonWEAP\output\CR2_x_CCSM4_ResultadosAltas.csv for writing.  Perhaps it is open in Excel?
+29-11-2019 23:05:43 (WEAP Version: 2019.2, User: Vicente Jander, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_Historico): Cannot open file E:\AtlasHacienda\PythonWEAP\output\CR2_x_IPSL-CM5A-LR_ResultadosAltas.csv for writing.  Perhaps it is open in Excel?
+12/20/2019 2:09:46 PM (WEAP Version: 2019.2, User: Eduardo Bustos, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_final): Expression result is more than maximum of 50.  The value was 83.59874703.
+
+Branch: Demand Sites and Catchments\Laguna Maule 3500
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+Variable: Temperature
+12/20/2019 2:09:48 PM (WEAP Version: 2019.2, User: Eduardo Bustos, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_final): WEAPApplication.LoadFavorite: Failed to calculate
+12/20/2019 2:09:51 PM (WEAP Version: 2019.2, User: Eduardo Bustos, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_final): Expression result is more than maximum of 50.  The value was 83.59874703.
+
+Branch: Demand Sites and Catchments\Laguna Maule 3500
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+Variable: Temperature
+12/20/2019 2:18:35 PM (WEAP Version: 2019.2, User: Eduardo Bustos, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_final): Expression result is more than maximum of 50.  The value was 83.59874703.
+
+Branch: Demand Sites and Catchments\Laguna Maule 3500
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+Variable: Temperature
+12/20/2019 2:18:37 PM (WEAP Version: 2019.2, User: Eduardo Bustos, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_final): WEAPApplication.LoadFavorite: Failed to calculate
+12/20/2019 2:18:39 PM (WEAP Version: 2019.2, User: Eduardo Bustos, Pontificia Universidad Catolica de Chile, Area: WEAP_Chile_final): Expression result is more than maximum of 50.  The value was 83.59874703.
+
+Branch: Demand Sites and Catchments\Laguna Maule 3500
+Scenario: EscenariosFuturos
+Year: 1981
+Month: April
+Variable: Temperature
+4/24/2020 1:12:31 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect monthly time series: expected Year = 2010, month = 5, but got Year = 1980, Month = 1
+
+See line 365 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1980 1 0.0
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1979
+Month: April
+
+
+Do you want to edit the file now?
+4/24/2020 1:12:32 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/24/2020 1:12:55 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect monthly time series: expected Year = 2010, month = 5, but got Year = 1980, Month = 1
+
+See line 365 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1980 1 0.0
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1979
+Month: April
+
+
+Do you want to edit the file now?
+4/24/2020 1:12:56 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/24/2020 1:13:04 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect monthly time series: expected Year = 2010, month = 5, but got Year = 1980, Month = 1
+
+See line 365 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1980 1 0.0
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Reference
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+4/24/2020 1:14:24 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 1 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Datos\Precipitaciones\PpMauleAlto.csv: 
+
+    1984-02-01,1984,2,6.740000000000009,2.54000000000002,6.639999999999991
+
+Branch: Demand Sites and Catchments\Laguna Maule 3500
+Scenario: Current Accounts
+Year: 1979
+Month: April
+Variable: Precipitation
+
+Do you want to edit the file now?
+4/24/2020 1:14:25 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/24/2020 1:16:39 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect monthly time series: expected Year = 2010, month = 5, but got Year = 1980, Month = 1
+
+See line 365 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1980 1 0.0
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1979
+Month: April
+
+
+Do you want to edit the file now?
+4/24/2020 1:16:40 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/24/2020 1:21:56 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:06:23 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect monthly time series: expected Year = 2040, month = 1, but got Year = 2035, Month = 1
+
+See line 553 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    2035 1 0.0
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: Current Accounts
+Year: 1979
+Month: April
+
+
+Do you want to edit the file now?
+4/25/2020 6:06:24 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:45:34 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:45:53 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+4/25/2020 6:50:00 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+4/25/2020 6:50:10 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:50:15 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+4/25/2020 6:50:23 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:50:27 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+4/25/2020 6:50:35 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:50:40 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+4/25/2020 6:50:48 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:51:05 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+4/25/2020 6:51:13 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.Calculate: Failed to calculate
+4/25/2020 6:51:34 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+5/17/2020 12:08:21 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+5/17/2020 1:36:42 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): Cannot open file D:\ARClim\Maule\Salidas\ACCESS1-0_ResultadosAltas.csv for writing.  Perhaps it is open in Excel?
+5/17/2020 7:51:39 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): Cannot open file D:\ARClim\Maule\Salidas\ACCESS1-0_ResultadosAltas.csv for writing.  Perhaps it is open in Excel?
+5/18/2020 1:54:21 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): Cannot access information in Excel.  Perhaps a cell is being edited or an Excel dialog box is open? ("La llamada fue rechazada por el destinatario")
+6/2/2020 3:55:25 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 47 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 113.58499999999036
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:26 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:55:27 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 47 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 113.58499999999036
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:35 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 61 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 92.69999999994626
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:36 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:55:37 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 61 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 92.69999999994626
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:45 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 46 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 65.64000000000482
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:46 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:55:47 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 46 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 65.64000000000482
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:55 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 0 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 50.695000000028344
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:55:56 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:55:57 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 0 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 50.695000000028344
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:56:05 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 38 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 95.01500000000235
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:56:06 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:56:07 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 38 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 95.01500000000235
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:56:14 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 43 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 63.13999999996097
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:56:15 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:56:16 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 43 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 63.13999999996097
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:57:22 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 47 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 113.58499999999036
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:57:23 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:57:24 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 47 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 113.58499999999036
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:57:32 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 61 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 92.69999999994626
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:57:33 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/2/2020 3:57:34 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 61 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 92.69999999994626
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:57:43 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 61 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 92.69999999994626
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/2/2020 3:57:46 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): ReadFromFile error:
+
+Incorrect date format.  Expected:
+   for an annual file, column one is year (each line a different year in increasing order),  OR,
+   for a sub-annual file, column one is year and column two is timestep number (1 to 12) in increasing order.
+
+See line 61 in data file D:\WEAP\Weap areas\WEAP_Maule_Laja\Data\Pp.txt: 
+
+    1970 1 92.69999999994626
+
+Branch: Key\Hidrologia\P_AL04
+Scenario: historico mas futuro
+Year: 1980
+Month: April
+
+
+Do you want to edit the file now?
+6/3/2020 11:10:05 PM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate
+6/26/2020 1:54:06 AM (WEAP Version: 2019.2, User: Carlos Calvo, Pontificia Universidad Catolica de Chile, Area: WEAP_Maule_Laja): WEAPApplication.LoadOverview: Failed to calculate

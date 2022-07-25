@@ -1,0 +1,71 @@
+Name, Type, River, Source, Destination, Demand Priority, Supply Preference, Allocation Order, Is Priority on Transmission Link
+Laguna Laja, Reservoir, Afluente Laguna Laja, , , 2, , 2, 
+Gen Base CET, Flow Requirement, CET, , , 1, , 1, 
+Hydropower Node for Antuco, Hydropower, Aduccion comun, , , 3, , 3, 
+Hydropower Node for Rucue, Hydropower, Tunel Rucue, , , 4, , 4, 
+Laguna del Maule, Reservoir, Rio Laguna del Maule, , , 1, , 1, 
+Laguna Invernada, Reservoir, Rio Cipreses, , , 1, , 1, 
+Embalse Colbun, Reservoir, Rio Maule Alto, , , 1, , 1, 
+Embalse Melado, Reservoir, Río Melado, , , 1, , 1, 
+Hydropower Node for Central Isla, Hydropower, Aduccion Comun Isla, , , 2, , 2, 
+Hydropower Node for Central Currilinque, Hydropower, Aduccion Comun Isla, , , 2, , 2, 
+Hydropower Node for Central Loma Alta, Hydropower, Aduccion Comun Isla, , , 2, , 2, 
+Embalse Machicura, Reservoir, Alimentacion Central Machicura, , , 3, , 3, 
+Hydropower Node for Central San Ignacio, Hydropower, Alimentacion Central Machicura, , , 2, , 2, 
+RA, Flow Requirement, Riego Antiguo, , , 1, , 1, 
+RN, Flow Requirement, Riego Nuevo, , , 1, , 1, 
+Hydropower Node for Central Cipreses, Hydropower, Aduccion Cipreses, , , 2, , 2, 
+Hydropower Node for Pehuenche, Hydropower, Ad. Melado a Pehuenche, , , 2, , 2, 
+Hydropower Node for Central Chiburgo, Hydropower, Canal Maule Sur, , , 2, , 2, 
+FR Maule Sur, Flow Requirement, Canal Maule Sur, , , 1, , 1, 
+FR Cooperativa San Clemente, Flow Requirement, Canal San Clemente, , , 1, , 1, 
+FR Sur 1, Flow Requirement, Canal Sur 1, , , 1, , 1, 
+FR Melado, Flow Requirement, Canal Melado, , , 1, , 1, 
+FR Las Garzas, Flow Requirement, Canal Las Garzas, , , 1, , 1, 
+FR Maule Norte Alto, Flow Requirement, Canal Maule Norte Alto, , , 1, , 1, 
+FR Las Suizas, Flow Requirement, Canal Las Suizas, , , 1, , 1, 
+FR La Esperanza, Flow Requirement, Canal La Esperanza, , , 1, , 1, 
+FR Maule Norte Bajo, Flow Requirement, Canal Maule Norte Bajo, , , 1, , 1, 
+FR Sistema Maitenes, Flow Requirement, Canal Sistema Maitenes, , , 1, , 1, 
+FR Duao Zapata, Flow Requirement, Canal Duao Zapata, , , 1, , 1, 
+FR Sur 2, Flow Requirement, Canal Sur 2, , , 1, , 1, 
+FR Sur 3, Flow Requirement, Canal Sur 3, , , 1, , 1, 
+FR Union Molino, Flow Requirement, Canal Union Molino, , , 1, , 1, 
+FR Chivato Loncoche, Flow Requirement, Canal Chivato Loncoche, , , 1, , 1, 
+FR Hacienda Maule, Flow Requirement, Canal Hacienda Maule, , , 1, , 1, 
+FR La Isla, Flow Requirement, Canal La Isla, , , 1, , 1, 
+FR Santa Rosa, Flow Requirement, Canal Santa Rosa, , , 1, , 1, 
+FR Pehuenche Maule, Flow Requirement, Aduccion Maule a Melado, , , 2, , 2, 
+FR Central Pehuenche Melado, Flow Requirement, Ad. Melado a Pehuenche, , , 2, , 2, 
+FR Central Cipreses, Flow Requirement, Aduccion Cipreses, , , 1, , 1, 
+FR Central Isla _ Rio Cipreses, Flow Requirement, Rama Cipreses Isla, , , 1, , 1, 
+FR Central Isla _ Rio Maule, Flow Requirement, Maule a Canal Isla, , , 1, , 1, 
+FR Central Loma Alta _ Rio Colorado, Flow Requirement, Rio Colorado, , , 2, , 2, 
+FR Central Machicura, Flow Requirement, Alimentacion Central Machicura, , , 2, , 2, 
+FR Central Colbun, Flow Requirement, Alimentacion Central Machicura, , , 2, , 2, 
+FR Central San Ignacio, Flow Requirement, Alimentacion Central Machicura, , , 2, , 2, 
+Hydropower "Hydropower Node for Central Colbun", Hydropower, Alimentacion Central Machicura, , , 2, , 2, 
+Hydropower Node for Central Machicura, Hydropower, Alimentacion Central Machicura, , , 2, , 2, 
+Transmission Link from Withdrawal Node 2 to Asociacion Maule Sur, Transmission Link, Sur 1 Maule Sur, Withdrawal Node 2, Asociacion Maule Sur, 1, 1, 1, No
+Transmission Link from Withdrawal Node 3 to Asociacion Maule Sur, Transmission Link, Canal Maule Sur, Withdrawal Node 3, Asociacion Maule Sur, 1, 1, 1, No
+Transmission Link from Withdrawal Node 4 to Asociacion Maule Sur, Transmission Link, Canal La Esperanza, Withdrawal Node 4, Asociacion Maule Sur, 1, 1, 1, No
+FR Sur1 Maule Sur, Flow Requirement, Sur 1 Maule Sur, , , 1, , 1, 
+FR Sur1 SORPAM, Flow Requirement, Sur 1 SORPAM, , , 1, , 1, 
+Transmission Link from Withdrawal Node 5 to SORPAM, Transmission Link, Sur 1 SORPAM, Withdrawal Node 5, SORPAM, 1, 1, 1, No
+Transmission Link from Withdrawal Node 6 to SORPAM, Transmission Link, Canal Sur 2, Withdrawal Node 6, SORPAM, 1, 1, 1, No
+Transmission Link from Withdrawal Node 7 to SORPAM, Transmission Link, Canal Sur 3, Withdrawal Node 7, SORPAM, 1, 1, 1, No
+Transmission Link from Withdrawal Node 8 to Particulares Ribera Sur, Transmission Link, Canal Chivato Loncoche, Withdrawal Node 8, Particulares Ribera Sur, 1, 1, 1, No
+Transmission Link from Withdrawal Node 9 to Particulares Ribera Sur, Transmission Link, Canal Union Molino, Withdrawal Node 9, Particulares Ribera Sur, 1, 1, 1, No
+Transmission Link from Withdrawal Node 10 to Particulares Ribera Norte, Transmission Link, Canal Hacienda Maule, Withdrawal Node 10, Particulares Ribera Norte, 1, 1, 1, No
+Transmission Link from Withdrawal Node 11 to Particulares Ribera Norte, Transmission Link, Canal La Isla, Withdrawal Node 11, Particulares Ribera Norte, 1, 1, 1, No
+Transmission Link from Withdrawal Node 12 to Particulares Ribera Norte, Transmission Link, Canal Santa Rosa, Withdrawal Node 12, Particulares Ribera Norte, 1, 1, 1, No
+Transmission Link from Withdrawal Node 13 to Coopertiva de Riego, Transmission Link, Canal Duao Zapata, Withdrawal Node 13, Coopertiva de Riego, 1, 1, 1, No
+Transmission Link from Withdrawal Node 14 to Coopertiva de Riego, Transmission Link, Canal San Clemente, Withdrawal Node 14, Coopertiva de Riego, 1, 1, 1, No
+Transmission Link from Withdrawal Node 15 to Coopertiva de Riego, Transmission Link, Canal Sistema Maitenes, Withdrawal Node 15, Coopertiva de Riego, 1, 1, 1, No
+Transmission Link from Withdrawal Node 16 to Asociacion Canal Maule, Transmission Link, Canal Maule Norte Bajo, Withdrawal Node 16, Asociacion Canal Maule, 1, 1, 1, No
+Transmission Link from Withdrawal Node 17 to Asociacion Canal Maule, Transmission Link, Canal Maule Norte Alto, Withdrawal Node 17, Asociacion Canal Maule, 1, 1, 1, No
+Transmission Link from Withdrawal Node 18 to Garzas y Suizas, Transmission Link, Canal Las Garzas, Withdrawal Node 18, Garzas y Suizas, 1, 1, 1, No
+Transmission Link from Withdrawal Node 19 to Garzas y Suizas, Transmission Link, Canal Las Suizas, Withdrawal Node 19, Garzas y Suizas, 1, 1, 1, No
+FR Maule Norte Tronco, Flow Requirement, Canal Maule Norte Alto, , , 1, , 1, 
+FR Canal Maule Sur, Flow Requirement, Canal Maule Sur, , , 1, , 1, 
+Economías, Reservoir, Economías, , , 99, , 5, 
