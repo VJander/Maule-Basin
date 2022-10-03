@@ -25,6 +25,8 @@ To be able to reproduce the results and/or use the model, the following dependen
   * Pandas
   * Packaging
   * GLPK and/or lpsolve
+* Matplotlib
+* (Optional): QGIS (for editable map)
 
 
 ### Key Files
