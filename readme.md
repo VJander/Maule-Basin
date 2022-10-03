@@ -73,7 +73,7 @@ The following files and folder names show the description of relevant documentat
     ```
 
 3. **Generate Visual Results**: The following files were used to generate visual results from every stage of the model
-      * *GISMap*: Folder that contains every file to generate the GIS Map of the study zone in Figure 1.
+      * *GISMap*: Folder that contains every file to generate the GIS Map of the study zone in Figure 1. QGIS foftware required for opening.
       * *Scenarios.py*: Generates Figure 2, the impact of different climate change scenarios over Armerillo's Station monthly projected flow between 2020 and 2060.
       * *Embalses2.py*: Generates Figure 3, the model calibration by reservoir levels comparison. 
       * *Performance.py*: Generates Figure 6, the Climate Change projected impacts over system performance.
