@@ -17,7 +17,7 @@ from matplotlib.ticker import ScalarFormatter
 import warnings
 warnings.filterwarnings('ignore', category=tables.NaturalNameWarning)
 
-my_model = Model.load('Model.json')
+my_model = Model.load('Model_PreStrategy.json')
 run = my_model.run()
 print(run)
 
